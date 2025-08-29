@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_DATOS"/>
+        <attribute name="authors" value="Moren"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:30:40 p. m."/>
+        <attribute name="created" value="TW9yZW47QVNVU05PWDsyMDI1LTA4LTI3OzA0OjIyOjIzIHAuIG0uOzI1NDU="/>
+        <attribute name="edited" value="TW9yZW47QVNVU05PWDsyMDI1LTA4LTI3OzA0OjMwOjQwIHAuIG0uOzE7MjY1MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE: &quot;" newline="False"/>
+            <output expression="&quot;CARLOS MORENO NOCHE&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL: &quot;" newline="False"/>
+            <output expression="25550865" newline="True"/>
+            <output expression="&quot;EDAD: &quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
