@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_Datos"/>
+        <attribute name="authors" value="Moren"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:28:53 p. m."/>
+        <attribute name="created" value="TW9yZW47QVNVU05PWDsyMDI1LTA4LTI2OzA0OjIyOjIzIHAuIG0uOzI1NDQ="/>
+        <attribute name="edited" value="TW9yZW47QVNVU05PWDsyMDI1LTA4LTI2OzA0OjI4OjUzIHAuIG0uOzE7MjY2MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Carlos Moreno Noche&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
